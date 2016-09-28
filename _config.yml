@@ -1,20 +1,20 @@
 # Site settings
-email: deonquebec@gmail.com
+email: 
 baseurl: "/blog"
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics: 
 
 # SEO settings
-title: Daehyun's Blog
-description: 
+title: dqgthb's Blog
+description: Hello world! This is SEO description. 
 url: ""
 twitter_username: 
 default_img: 
 
 # Profile settings
 name: 
-#profile_img: black_background_wood-wallpaper-1920x1200.jpg
+profile_img: "/blog/black_background_wood-wallpaper-1920x1200.jpg"
 profile: 
 social:
   github: 
