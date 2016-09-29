@@ -8,7 +8,8 @@ description: Hello?
 ---
 
 # Hey, hello how are you?
-## Hello world!
-This is amazing!!!
 
+## Hello world!
+
+This is amazing!!!
 I just wanted to do a *test* and **this** is the result! ~Wow~
