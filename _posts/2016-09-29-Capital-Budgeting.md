@@ -6,7 +6,7 @@ categories:
   - Finance
   - Applied Corporate Finance
 description: A note from Applied Corporate Finance 
-image: 
+image: http://images.slideplayer.com/15/4506788/slides/slide_3.jpg
 ## image-sm: 
 ---
 

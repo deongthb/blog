@@ -5,7 +5,7 @@ date: 2016-09-30
 categories: 
     - Finance
 description: 
-image: 
+image: http://pages.suddenlink.net/rhr/fin02/HTMLFiles/MarketReturnDistribution_2.gif
 image-sm: 
 ---
 
@@ -24,26 +24,25 @@ Does not work actually
 $$log(price)$$
 
 ## What is log return?
-$$\text{log return} = log(\frac{P_t}{P_{t-1}}) = log(P_t)-log(P_{t-1})$$
+$$\text{log return} = log(\frac{P_t}{P_{(t-1)}}) = log(P_t)-log(P_{(t-1)})$$
 
 \begin{align}
-    \text{log return} &= log(\frac{P_t}{P_{t-1}}) = log(P_t)-log(P_{t-1}) \\\
-    \text{log return} &= log(\frac{P_t}{P_{t-1}}) = log(P_t)-log(P_{t-1}) \\\
-    \text{log return} &= log(\frac{P_t}{P_{t-1}}) = log(P_t)-log(P_{t-1}) \\\
-    \text{log return} &= log(\frac{P_t}{P_{t-1}}) = log(P_t)-log(P_{t-1})
+    \text{log return} &= log(\frac{P_t}{P_{(t-1)}}) = log(P_t)-log(P_{(t-1)}) \\\
+    \text{log return} &= log(\frac{P_t}{P_{(t-1)}}) = log(P_t)-log(P_{(t-1)}) \\\
+    \text{log return} &= log(\frac{P_t}{P_{(t-1)}}) = log(P_t)-log(P_{(t-1)}) \\\
+    \text{log return} &= log(\frac{P_t}{P_{(t-1)}}) = log(P_t)-log(P_{(t-1)})
 \end{align}
 
-## Why not log(return) or \\( log(P_t - P_{t-1}) \\)?
+## Why not log(return) or \\( log(P_t - P_{(t-1)}) \\)?
 Because both return and first difference can be negative, and it does not make sense at all to take log of negatives. 
 
 ## What are the advantages of log price?
 
 The List:
 
-
-* Log returns are usually not auto-correlated while prices are
-* normalization \(returns of different assets can be compared, their prices usually not\)
-* time-additivity
-* other conveniences
++ Log returns are usually not auto-correlated while prices are
+- normalization \(returns of different assets can be compared, their prices usually not\)
+- time-additivity
+- other conveniences
 
 #### The End

@@ -6,7 +6,7 @@ categories:
   - Computer Programming
   - Data Structure
 description: Stack and Recursive 
-image: 
+image: https://mitpress.mit.edu/sicp/full-text/sicp/book/chapter-1/figs/fact-shape.gif 
 image-sm: 
 ---
 

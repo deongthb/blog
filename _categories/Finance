@@ -1,0 +1,7 @@
+---
+layout: default
+title: Finance
+description: About Finance
+permalink: /category/finance/
+---
+{% include category.html %}

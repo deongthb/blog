@@ -14,8 +14,8 @@ default_img:
 
 # Profile settings
 name: 
-profile_img: "/blog/black_background_wood-wallpaper-1920x1200.jpg"
-profile: 
+profile_img: "https://octodex.github.com/images/Professortocat_v2.png"
+profile: "dqgthb is an abbreviation for 'Mr D lives in region Q and loves github'. \r Nice to meet you!"
 social:
   github: 
 
